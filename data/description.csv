@@ -1,10 +1,10 @@
 label,sublabel,description,styles,bgcolor
 燃やせるごみ,,,img/moyaseru02.svg,#ea3b13
-新聞・チラシ,,,img/moyaseru02.svg,#ea3b13
-雑誌・段ボール・紙パック,,,img/moyaseru02.svg,#ea3b13
+新聞・チラシ,,,img/moyaseru02.svg,#81d12e
+雑誌・段ボール・紙パック,,,img/moyaseru02.svg,#27a047
 缶,,,img/kan02.svg,#2dc7aa
-ペットボトル,,,img/tyabin02.svg,#2dc7aa
-ビン,,,img/tyabin02.svg,#2dc7aa
-ガラス類・陶磁器,,,img/waremono02.svg,#733b96
-金属,,,img/waremono02.svg,#733b96
-プラスチック・ビニール,,,img/yokikami02.svg,#733b96
+ペットボトル,,,img/tyabin02.svg,#08b925
+ビン,,,img/tyabin02.svg,#00b7c0
+ガラス類・陶磁器,,,img/waremono02.svg,#91dde7
+金属,,,img/waremono02.svg,#9263d3
+プラスチック・ビニール,,,img/yokikami02.svg,#685ecf
